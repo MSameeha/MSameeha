@@ -6,7 +6,7 @@ https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dxN25vZDB3Znh5NXp2dXN0MnlhbzBpNWw
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
  -->
  <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dxN25vZDB3Znh5NXp2dXN0MnlhbzBpNWwzamFsM3hkYXM5ZzQ2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif" width="230">
-<p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVyN2U0dXpzaGthaTlwODd5cnRyeXNoNnY4dm93bW5vMWMwdnM1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWKMPYfe30hn3f1f18/giphy.gif" width="30">&nbsp;&nbsp;Associate Software Engineer @ <a href="http://www.unb.br">ServiceNow</a></p>
+<p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnVyN2U0dXpzaGthaTlwODd5cnRyeXNoNnY4dm93bW5vMWMwdnM1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XWKMPYfe30hn3f1f18/giphy.gif" width="30">&nbsp;&nbsp;Associate Software Engineer @ <a href="https://www.servicenow.com/">ServiceNow</a></p>
 
 ### Socials
 

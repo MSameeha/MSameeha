@@ -25,11 +25,12 @@ const aboutMe = {
   web: [React, Node, Typescript, HTML, CSS],
   databases: ["AWS-Dynamodb", "MongoDB", "Firebase", "SQL"],
   tools: [ServiceNow, Git, Postman, Figma, Unix],
-  certifications: ["ServiceNow - CSA", "ServiceNow - CAD"],
+  servicenow: ['Flow Designers', 'Now Bot', 'REST API integration', 'ITSM', 'Service Portal', 'Reporting'],
+  certifications: [ServiceNow - CSA, CAD, CIS ITSM],
   topHackathons: {
-      "Smart India Hackathon - 2022": "Winner",
-      "Code Odyssey by CSI-KJSEIT": "Third",
-      "CCC - By Vasavi College": "Fifth"
+      "Smart India Hackathon - 2022": Winner,
+      "Code Odyssey by CSI-KJSEIT": Third,
+      "CCC - By Vasavi College": Fifth
    }
 }
 ```

@@ -10,11 +10,14 @@ https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dxN25vZDB3Znh5NXp2dXN0MnlhbzBpNWw
 
 ### Socials
 
+[![Linkedin: Sameeha Mubeen](https://img.shields.io/badge/Sameeha%20CV-8A2BE2
+)](https://www.sameeha.dev/)
 [![Linkedin: Sameeha Mubeen](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sameehamubeen/)](https://www.linkedin.com/in/sameehamubeen/)
 [![GitHub Sameeha Mubeen](https://img.shields.io/badge/Github-f6f8fa
 )](https://github.com/MSameeha)
 [![Leetcode Sameeha Mubeen](https://img.shields.io/badge/Leetcode-f89f1b
 )](https://leetcode.com/u/Lazy_Propagation_/)
+
 
 
 ### About me
